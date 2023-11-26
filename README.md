@@ -20,6 +20,8 @@ A full-stack Next.js application that finds the nearby coffee stores and allows 
 # Demo
 See the Coffee-Finder live here
 https://shanec-coffee-finder.vercel.app/
+<img width="1183" alt="image" src="https://github.com/CastroShane/coffee-finder/assets/98923162/159341b0-12f8-4bc0-9f89-8be713b13c85">
+<img width="1294" alt="image" src="https://github.com/CastroShane/coffee-finder/assets/98923162/7b0233ce-f790-432a-9c75-aec9a0dfafc3">
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castroshane20/)
