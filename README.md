@@ -1,3 +1,30 @@
+
+# Coffee-Finder
+
+A full-stack Next.js application that finds the nearby coffee stores and allows users to rate it.
+## Tech Stack
+
+**Client:** Next.Js, Javascript, React
+
+**Server:** Airtable(NoSQL), RestAPI, Node.Js, Express
+
+**API:** Foursquare Places, Unsplash, & Geolocation API
+
+
+## Features
+
+- Find nearest coffee stores in Montreal or near you
+- View details specific coffee store
+- Up vote a coffee store
+
+# Demo
+See the Coffee-Finder live here
+https://shanec-coffee-finder.vercel.app/
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castroshane20/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,4 +59,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# coffee-finder
